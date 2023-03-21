@@ -1,0 +1,14 @@
+body{
+    background-color: black;
+}
+.ght2{
+    top: 0%;
+    left: 10%;
+}
+@media screen and (max-width:576px){
+    .ght2{
+      position: relative;
+      width: 55% !important;
+      height: 40% !important;
+    }  
+}

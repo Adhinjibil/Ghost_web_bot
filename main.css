@@ -1,0 +1,36 @@
+body{
+    background-color: black;
+}
+.ght5{
+    position:relative;
+    left:35%;
+    top:30%;
+}
+h4{
+    color: aliceblue;
+    left: 30%;
+    text-align: center;
+    font-family:  SimSun-ExtB;
+    text-shadow: 4px 8px 8px hsl(120, 100%, 51%);
+}
+.bat1{
+    position:relative;
+    left:35%;
+    bottom:10%;
+    
+}
+@media screen and (max-width:576px){
+    .bat1{
+        position:relative;
+        left:5% !important;
+        bottom:10%;
+    }
+    .ght5{
+        position:relative;
+        left:12% !important;
+        top:30%;
+    }
+  
+
+
+}
